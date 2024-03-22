@@ -3,7 +3,7 @@
 2. [Latest Version](#latest-version)
 3. [All Versions](#all-versions)
 4. [Disclaimer](#disclaimer)
-5. [License](#about-license)
+5. [License](#license)
 6. [How to Contribute](#how-to-contribute)
 
 # Overview
@@ -26,8 +26,8 @@ Unauthorized use of these templates on live websites without proper authorizatio
 The creator of this repository holds no liability for any misuse or illegal activities performed using these templates.
 Proceed with caution and adhere to ethical standards when utilizing these files.
 
-# About License
-This repository is under the [MIT License](#LICENSE), which means that anyone is free to edit, modify, and use these templates as their own.
+# License
+This repository is under the [MIT License](LICENSE), which means that anyone is free to edit, modify, and use these templates as their own.
 The MIT License allows for open collaboration and encourages sharing of knowledge and resources within the cybersecurity community.
 
 # How to Contribute

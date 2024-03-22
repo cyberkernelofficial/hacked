@@ -13,11 +13,11 @@ Each version folder contains a unique index.html file that can be used for testi
 6. [How to Contribute](#how-to-contribute)
 
 ## Latest Version
-The latest version available is [v1](#v1).
+The latest version available is [v1](v1).
 This template provides a more advanced demonstration of potential web vulnerabilities and security risks.
 
 ## All Versions
-- [v1](#v1)
+- [v1](v1)
 
 ## Disclaimer
 **Disclaimer:**
